@@ -524,3 +524,4 @@ D:\DotNet\DEPI ---SchollarShip\12 - Projects\3 - DotNet_Team_MVC\Project\e-comme
 D:\DotNet\DEPI ---SchollarShip\12 - Projects\3 - DotNet_Team_MVC\Project\e-commerceSLN\e-commerce\obj\Debug\net8.0\e-commerce.pdb
 D:\DotNet\DEPI ---SchollarShip\12 - Projects\3 - DotNet_Team_MVC\Project\e-commerceSLN\e-commerce\obj\Debug\net8.0\e-commerce.genruntimeconfig.cache
 D:\DotNet\DEPI ---SchollarShip\12 - Projects\3 - DotNet_Team_MVC\Project\e-commerceSLN\e-commerce\obj\Debug\net8.0\ref\e-commerce.dll
+D:\DotNet\DEPI ---SchollarShip\12 - Projects\3 - DotNet_Team_MVC\Project\e-commerceSLN\e-commerce\obj\Debug\net8.0\e-commerce.sourcelink.json

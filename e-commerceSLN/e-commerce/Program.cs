@@ -1,6 +1,8 @@
 //using e_commerce.contex ;
 using e_commerce.Contexts;
 using e_commerce.Models;
+using e_commerce.Repositories;
+using e_commerce.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace e_commerce
@@ -13,7 +15,10 @@ namespace e_commerce
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-            
+
+            builder.Services.AddScoped<IproductRepository, ProductRepository>();
+            //builder.Services.AddScoped<ICategoryRepository, categre>();
+
             builder.Services.AddDbContext<ECommerceContext>(Options => {
                 Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
