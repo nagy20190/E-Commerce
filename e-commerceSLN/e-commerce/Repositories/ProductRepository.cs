@@ -4,7 +4,7 @@ using e_commerce.Repositories.Interfaces;
 
 namespace e_commerce.Repositories
 {
-    public class ProductRepository : IproductRepository
+    public class ProductRepository : IProductRepository
     {
         ECommerceContext context;
         public ProductRepository(ECommerceContext _context)
@@ -33,7 +33,7 @@ namespace e_commerce.Repositories
         {
             return context.products.Where(p => p.Name.Contains(name)).ToList();
         }
-        public List<Product> GetProductByCatId(int categId)
+        public List<Product> GetProductsByCatId(int categId)
         {
             return context.products.Where(p => p.CategoryId == categId).ToList();
         }

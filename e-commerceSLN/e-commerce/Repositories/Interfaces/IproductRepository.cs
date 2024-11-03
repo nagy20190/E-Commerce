@@ -2,7 +2,7 @@
 
 namespace e_commerce.Repositories.Interfaces
 {
-    public interface IproductRepository
+    public interface IProductRepository
     {
         public void Add(Product product);
         public void Update(Product product);
@@ -10,7 +10,7 @@ namespace e_commerce.Repositories.Interfaces
         public Product GetById(int id);
         public List<Product> GetByName(string name);
         public List<Product> GetAll();
-        public List<Product> GetProductByCatId(int categId);
+        public List<Product> GetProductsByCatId(int categId);
         public void Save();
     }
 }

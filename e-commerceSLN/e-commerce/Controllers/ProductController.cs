@@ -8,8 +8,8 @@ namespace e_commerce.Controllers
     public class ProductController : Controller
     {
         // Dependency Injection
-        IproductRepository productRepository;
-        public ProductController(IproductRepository _productRepository)
+        IProductRepository productRepository;
+        public ProductController(IProductRepository _productRepository)
         {
             productRepository = _productRepository;
         }
@@ -17,8 +17,6 @@ namespace e_commerce.Controllers
         {
             return View("Index", productRepository.GetAll());
         }
-
-        
 
     }
 }

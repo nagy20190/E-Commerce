@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|d:\\dotnet\\depi ---schollarship\\12 - projects\\3 - dotnet_team_mvc\\project\\e-commercesln\\e-commerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|d:\\dotnet\\depi ---schollarship\\12 - projects\\3 - dotnet_team_mvc\\project\\e-commercesln\\e-commerce\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|d:\\dotnet\\depi ---schollarship\\12 - projects\\3 - dotnet_team_mvc\\project\\e-commercesln\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|d:\\dotnet\\depi ---schollarship\\12 - projects\\3 - dotnet_team_mvc\\project\\e-commercesln\\e-commerce\\contexts\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\contexts\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|d:\\dotnet\\depi ---schollarship\\12 - projects\\3 - dotnet_team_mvc\\project\\e-commercesln\\e-commerce\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|d:\\dotnet\\depi ---schollarship\\12 - projects\\3 - dotnet_team_mvc\\project\\e-commercesln\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1E88C8-3CFF-40B1-BBC1-1926E4E05088}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IproductRepository.cs",
-              "DocumentMoniker": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Repositories\\Interfaces\\IproductRepository.cs",
-              "RelativeDocumentMoniker": "e-commerce\\Repositories\\Interfaces\\IproductRepository.cs",
-              "ToolTip": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Repositories\\Interfaces\\IproductRepository.cs",
-              "RelativeToolTip": "e-commerce\\Repositories\\Interfaces\\IproductRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Repositories\\ProductRepository.cs*",
+              "RelativeToolTip": "e-commerce\\Repositories\\ProductRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T10:28:35.975Z",
+              "WhenOpened": "2024-11-03T19:36:50.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "e-commerce\\Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "e-commerce\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwBIAAAAIAAAAAAAAAA==",
+              "Title": "ECommerceContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Contexts\\ECommerceContext.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Contexts\\ECommerceContext.cs",
+              "ToolTip": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Contexts\\ECommerceContext.cs",
+              "RelativeToolTip": "e-commerce\\Contexts\\ECommerceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T10:38:00.281Z",
+              "WhenOpened": "2024-11-03T19:22:33.355Z",
               "EditorCaption": ""
             },
             {
@@ -60,24 +56,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Program.cs",
               "RelativeDocumentMoniker": "e-commerce\\Program.cs",
-              "ToolTip": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Program.cs*",
-              "RelativeToolTip": "e-commerce\\Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBMAAABJAAAAAAAAAA==",
+              "ToolTip": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Program.cs",
+              "RelativeToolTip": "e-commerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T11:53:50.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "e-commerce\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\Controllers\\ProductController.cs*",
-              "RelativeToolTip": "e-commerce\\Controllers\\ProductController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T11:46:16.082Z",
               "EditorCaption": ""
             }
           ]

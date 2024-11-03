@@ -13,13 +13,13 @@ namespace e_commerce.Contexts
         {
         }
         // Not Recomnded !
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer("Server =.;Database =Team_E_Commerce; integrated security = true; Encrypt=False;Trust Server Certificate=True");
-            }
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    if (!optionsBuilder.IsConfigured)
+        //    {
+        //        optionsBuilder.UseSqlServer("Server =.;Database =Team_E_Commerce; integrated security = true; Encrypt=False;Trust Server Certificate=True");
+        //    }
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

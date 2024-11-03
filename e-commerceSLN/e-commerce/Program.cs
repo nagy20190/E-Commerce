@@ -16,13 +16,12 @@ namespace e_commerce
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddScoped<IproductRepository, ProductRepository>();
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
             //builder.Services.AddScoped<ICategoryRepository, categre>();
 
             builder.Services.AddDbContext<ECommerceContext>(Options => {
                 Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
-
 
             var app = builder.Build();
 
