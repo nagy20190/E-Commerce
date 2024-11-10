@@ -1,6 +1,7 @@
 ﻿using e_commerce.Contexts;
 using e_commerce.Models;
 using e_commerce.Repositories.Interfaces;
+using e_commerce.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace e_commerce.Controllers
@@ -13,10 +14,13 @@ namespace e_commerce.Controllers
         {
             productRepository = _productRepository;
         }
+        // get all products for admin
         public IActionResult Index()
         {
+            //ProductWithCategoryVM productWithCategoryVM = new ProductWithCategoryVM();
             return View("Index", productRepository.GetAll());
         }
+        
 
     }
 }
