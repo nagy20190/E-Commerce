@@ -3,6 +3,7 @@ using e_commerce.Contexts;
 using e_commerce.Models;
 using e_commerce.Repositories;
 using e_commerce.Repositories.Interfaces;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
 namespace e_commerce
@@ -33,8 +34,6 @@ namespace e_commerce
             app.UseStaticFiles();
 
             app.UseRouting();
-
-            app.UseAuthorization();
 
             app.MapControllerRoute(
                 name: "default",

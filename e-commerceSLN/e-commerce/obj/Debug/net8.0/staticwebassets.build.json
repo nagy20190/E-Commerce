@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "asMNdrouxf/k6LSANEzoQnp1vVXOFGA0tRLPE5aM680=",
+  "Hash": "ambnlcVtqhQ0xB7As1ZocsqaqSDigdYa3EmcQnrxTZ0=",
   "Source": "e-commerce",
   "BasePath": "_content/e-commerce",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9agc98xkl0",
-      "Integrity": "j0koz2P1jSrQoGzC9I0rFpvJRE33habqYzoEfvM+xFE=",
+      "Fingerprint": "urrvfgd4m6",
+      "Integrity": "Wh2srPLPWIVD3fBLOVmNC7lK0Dz3Wo75hCyC0cTuGNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
@@ -2266,51 +2266,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "assets/css/main.9agc98xkl0.css",
-      "AssetFile": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\wwwroot\\assets\\css\\main.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40571"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j0koz2P1jSrQoGzC9I0rFpvJRE33habqYzoEfvM+xFE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 12 Sep 2024 10:05:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9agc98xkl0"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/css/main.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j0koz2P1jSrQoGzC9I0rFpvJRE33habqYzoEfvM+xFE="
-        }
-      ]
-    },
-    {
       "Route": "assets/css/main.css",
       "AssetFile": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\wwwroot\\assets\\css\\main.css",
       "Selectors": [],
@@ -2321,7 +2276,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "40571"
+          "Value": "41018"
         },
         {
           "Name": "Content-Type",
@@ -2329,11 +2284,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j0koz2P1jSrQoGzC9I0rFpvJRE33habqYzoEfvM+xFE=\""
+          "Value": "\"Wh2srPLPWIVD3fBLOVmNC7lK0Dz3Wo75hCyC0cTuGNM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Sep 2024 10:05:54 GMT"
+          "Value": "Tue, 26 Nov 2024 16:23:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2343,7 +2298,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j0koz2P1jSrQoGzC9I0rFpvJRE33habqYzoEfvM+xFE="
+          "Value": "sha256-Wh2srPLPWIVD3fBLOVmNC7lK0Dz3Wo75hCyC0cTuGNM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.urrvfgd4m6.css",
+      "AssetFile": "D:\\DotNet\\DEPI ---SchollarShip\\12 - Projects\\3 - DotNet_Team_MVC\\Project\\e-commerceSLN\\e-commerce\\wwwroot\\assets\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wh2srPLPWIVD3fBLOVmNC7lK0Dz3Wo75hCyC0cTuGNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 16:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "urrvfgd4m6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wh2srPLPWIVD3fBLOVmNC7lK0Dz3Wo75hCyC0cTuGNM="
         }
       ]
     },
