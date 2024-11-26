@@ -15,12 +15,17 @@ namespace e_commerce.Controllers
             productRepository = _productRepository;
         }
         // get all products for admin
-        public IActionResult Index()
+        public IActionResult Index() // 
         {
             //ProductWithCategoryVM productWithCategoryVM = new ProductWithCategoryVM();
             return View("Index", productRepository.GetAll());
         }
-        
+
+        public IActionResult Details(int id)
+        {
+            return View(new Product { Id = id });
+        }
+
 
     }
 }
