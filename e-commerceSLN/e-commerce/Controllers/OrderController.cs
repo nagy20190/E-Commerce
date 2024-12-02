@@ -35,6 +35,7 @@ namespace e_commerce.Controllers
         public IActionResult ByStatus (OrderStatus status)
         {
             var order =_orderRepository.GetByStatus(status);
+
             return View(order);
         }
         //delete order by id 
