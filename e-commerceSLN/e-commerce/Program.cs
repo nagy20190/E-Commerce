@@ -18,6 +18,7 @@ namespace e_commerce
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             //builder.Services.AddScoped<ICategoryRepository, categre>();
 
             builder.Services.AddDbContext<ECommerceContext>(Options => {
